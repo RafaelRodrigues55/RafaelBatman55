@@ -1,12 +1,13 @@
-### Olá, pessoal!
-### Me chamo Rafael Rodrigues 👋
+## Olá! 👋
+### É um prazer ter a sua visita por aqui! 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/rafa_55?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=rafa_55)
 
 ## Curiosidades!
 
-- 🌱 Eu estou aprendendo sobre Desenvolvimento Web
-- 🥅 Metas de 2020: Finalizar o meu primeiro bootcamp - Launch Base - RocketSeat
+- 🌱 Estou aprendendo sobre Desenvolvimento Web desde 05/2020
+- 🥅 Metas de 2020: Finalizar o meu primeiro bootcamp -> Launch Base - RocketSeat
+- 👯 Faço parte de um projeto open source chamado Twindle que conta com programadores de várias partes do mundo: [https://github.com/twindle-co/twindle]
 
 
 ### Conecte-se comigo:
