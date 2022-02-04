@@ -6,7 +6,7 @@
 ## Curiosidades!
 
 - 🌱 Estou aprendendo sobre Desenvolvimento Web desde 05/2020
-- 🥅 Metas de 2020: Finalizar o meu primeiro bootcamp -> Launch Base - RocketSeat
+- 🥅 Metas de 2022: Finalizar o meu primeiro bootcamp -> Launch Base - RocketSeat
 - 👯 Faço parte de um projeto open source chamado Twindle que conta com programadores de várias partes do mundo: [https://github.com/twindle-co/twindle]
 
 
